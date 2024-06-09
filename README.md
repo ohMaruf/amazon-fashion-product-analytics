@@ -111,7 +111,7 @@ Contributions are welcome! Please follow these steps:
 5. Create a pull request.
 
 ## Acknowledgements
-Dataset provided by [data.world](https://data.world/)
+Dataset [fashion-products-on-amazon-com](https://data.world/promptcloud/fashion-products-on-amazon-com) provided by [data.world](https://data.world/)
 
 ## Liked my work?
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmed-maruf-15684a212/)
